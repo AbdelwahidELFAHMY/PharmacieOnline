@@ -36,7 +36,7 @@ Ce dépôt contient le code source de l'application web pour le système de phar
 
 ## ⚙️ Technologies Utilisées
 ### Frontend :
-- **Framework** : React.js
+- **Framework** : React.js, Tailwind.
 - **Structure MVC** : Utilisation de composants pour une interface modulaire.
 
 ### Backend :
